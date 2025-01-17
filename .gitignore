@@ -12,6 +12,7 @@ dist
 dist-ssr
 *.local
 
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
@@ -22,3 +23,18 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+src/games/Hangman copy.jsx
+src/games/HigherOrLower_solution.jsx
+src/games/RockPaperScissors as of Jan 17.jsx
+src/App_Lecture9.jsx
+src/App_rock paper_Lecture5.jsx
+src/App_rock paper_Lecture7.jsx
+src/App_rock paper_Lecture8_withEx11.jsx
+src/App_rock paper_Lecture8_withEx13.jsx
+src/App_rock paper_Lecture8_withEx14.jsx
+src/App_rock paper_Lecture8.jsx
+src/App_rock paper.jsx
+src/App2.jsx
+src/Counter1.jsx
+src/Greeting.jsx
